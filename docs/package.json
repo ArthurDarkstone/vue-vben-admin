@@ -14,6 +14,7 @@
     "@vben-core/shadcn-ui": "workspace:*",
     "@vben/common-ui": "workspace:*",
     "@vben/locales": "workspace:*",
+    "@vben/plugins": "workspace:*",
     "@vben/styles": "workspace:*",
     "ant-design-vue": "catalog:",
     "lucide-vue-next": "catalog:",
